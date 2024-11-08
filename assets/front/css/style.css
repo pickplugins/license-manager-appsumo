@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+.job-alerts{}
+.job-alerts .success {
+  color: #21b04d;
+  padding: 20px 0;
+}
+
+.job-alerts .add-alert {
+  background: #24d498 none repeat scroll 0 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 10px;
+}
+
+.job-alerts .add-alert.checked {
+  background: #11a06f none repeat scroll 0 0;
+
+}
+
+
+
+.job-alerts .alert-list{}
+.job-alerts .alert-list .item {
+  border-bottom: 1px solid #ddd;
+  margin: 5px 0;
+  padding: 15px 0;
+}
+.job-alerts .alert-list .item .meta{}
+
+
+.job-alerts .alert-list .item .meta.running {
+
+}
+.job-alerts .alert-list .item .meta.running span {
+  background: #ddd none repeat scroll 0 0;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 2px 10px;
+}
+
+.job-alerts .alert-list .item .meta.delete {
+  background: #ff6c4a none repeat scroll 0 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  padding: 2px 10px;
+}
+
+
+.job-alerts .alert-list .pagination {
+  margin: 40px 0 0;
+}
+
+.job-alerts .alert-list .pagination .page-numbers {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 6px 11px;
+  text-decoration: none;
+}
+.job-alerts .alert-list .pagination .page-numbers.current {
+  background: #ddd none repeat scroll 0 0;
+
+}
+
+
+
+
+
+
+
+
+
+

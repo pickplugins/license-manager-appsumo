@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Board Manager - Job Alerts\n"
+"POT-Creation-Date: 2016-12-25 10:37+0600\n"
+"PO-Revision-Date: 2017-03-30 11:45+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-functions.php:37
+msgid "All"
+msgstr ""
+
+#: class-functions.php:47 class-functions.php:48
+msgid "Keyword"
+msgstr ""
+
+#: class-functions.php:49
+msgid "Write something here."
+msgstr ""
+
+#: class-functions.php:59 class-functions.php:60
+msgid "Job category"
+msgstr ""
+
+#: class-functions.php:61
+msgid "Search by job category."
+msgstr ""
+
+#: class-functions.php:73 class-functions.php:74
+msgid "Companies"
+msgstr ""
+
+#: class-functions.php:75
+msgid "Search by company."
+msgstr ""
+
+#: class-functions.php:85 class-functions.php:86
+msgid "Locations"
+msgstr ""
+
+#: class-functions.php:87
+msgid "Search by location."
+msgstr ""
+
+#: class-functions.php:97 class-functions.php:98 class-functions.php:111
+msgid "Salary Type"
+msgstr ""
+
+#: class-functions.php:99
+msgid "Search by salary type."
+msgstr ""
+
+#: class-functions.php:110
+msgid "Salary Range"
+msgstr ""
+
+#: class-functions.php:112
+msgid "Search by salary range."
+msgstr ""
+
+#: class-functions.php:124 class-functions.php:125
+msgid "Job Status"
+msgstr ""
+
+#: class-functions.php:126
+msgid "Search by job status."
+msgstr ""
+
+#: class-functions.php:137 class-functions.php:138
+msgid "Job Type"
+msgstr ""
+
+#: class-functions.php:139
+msgid "Search by job type."
+msgstr ""
+
+#: class-functions.php:149 class-functions.php:150
+msgid "Job Level"
+msgstr ""
+
+#: class-functions.php:151
+msgid "Search by job level."
+msgstr ""
+
+#: class-shortcodes.php:40 class-shortcodes.php:41
+msgid "Period"
+msgstr ""
+
+#: class-shortcodes.php:42
+msgid "period"
+msgstr ""
+
+#: class-shortcodes.php:45
+msgid "Daily"
+msgstr ""
+
+#: class-shortcodes.php:45
+msgid "Weekly"
+msgstr ""
+
+#: class-shortcodes.php:52
+msgid "alert_name"
+msgstr ""
+
+#: class-shortcodes.php:53
+msgid "Alert Name"
+msgstr ""
+
+#: class-shortcodes.php:54
+msgid "Alert name"
+msgstr ""
+
+#: class-shortcodes.php:56
+msgid "My daily Job"
+msgstr ""
+
+#: class-shortcodes.php:73
+#, php-format
+msgid "Please <a href=\"%s\">login</a> to create job alert!"
+msgstr ""
+
+#: class-shortcodes.php:84
+msgid "Add alert"
+msgstr ""
+
+#: class-shortcodes.php:118
+msgid "Alert created."
+msgstr ""
+
+#: class-shortcodes.php:127
+msgid "My alerts"
+msgstr ""
+
+#: class-shortcodes.php:154
+msgid "Create Alert"
+msgstr ""
+
+#: class-shortcodes.php:199
+msgid "Name:"
+msgstr ""
+
+#: class-shortcodes.php:200
+msgid "Running:"
+msgstr ""
+
+#: class-shortcodes.php:201
+msgid "Date:"
+msgstr ""
+
+#: class-shortcodes.php:202
+msgid "Period:"
+msgstr ""
+
+#: class-shortcodes.php:203
+msgid "Delete"
+msgstr ""
+
+#: class-shortcodes.php:214
+msgid "You haven't created alert, please create your first job alret."
+msgstr ""
+
+#: class-shortcodes.php:226
+msgid "&laquo;"
+msgstr ""
+
+#: class-shortcodes.php:227
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:42
+msgid "no"
+msgstr ""
+
+#: functions.php:60
+msgid "yes"
+msgstr ""
+
+#: functions.php:69
+msgid "You are not authorized"
+msgstr ""
+
+#: functions.php:98
+msgid "Alert Deleted."
+msgstr ""
+
+#: functions.php:103
+msgid "You are not authorized to delete this alert."
+msgstr ""
+
+#: functions.php:462
+msgid " Something going wrong"
+msgstr ""
+
+#: functions.php:566
+msgid "Job Alert!"
+msgstr ""
+
+#: functions.php:567
+msgid "New Job Alert for - {alert_name}"
+msgstr ""
